@@ -3,6 +3,12 @@
 <div align="center"><sup>1</sup>Google Cloud AI Research</div>
 <br><br>
 
+<div align="center">
+
+[📘 繁體中文完整指南與本地使用教學 (docs/README_zh-TW.md)](docs/README_zh-TW.md) | [🤖 AI Agent Skill 封裝說明 (skills/paper-orchestra/SKILL.md)](skills/paper-orchestra/SKILL.md)
+
+</div>
+
 PaperOrchestra is a multi-agent framework for automated AI research paper writing. It flexibly transforms unconstrained pre-writing materials (ideas and experimental logs) into submission-ready LaTeX manuscripts, including comprehensive literature synthesis and generated visuals, such as plots and conceptual diagrams.
 
 Acting like an orchestrated team of specialized agents, it handles outline generation, literature review, section writing, content refinement, and plotting to close the gap between raw research materials and submission ready papers.
